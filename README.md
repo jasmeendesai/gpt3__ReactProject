@@ -2,17 +2,6 @@
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Live Site](#live-site)
-- [About](#about)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 This repository contains the codebase for the Modern UI/UX GPT-3 project. This project is an example of a modern and responsive UI/UX built using React and other web technologies.
@@ -54,10 +43,3 @@ To run this project locally, follow these steps:
 
 You can use this project as a template for creating modern and responsive UI/UX designs. Feel free to customize it to fit your specific requirements.
 
-## Contributing
-
-Contributions are welcome! If you'd like to improve this project, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
