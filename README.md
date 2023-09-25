@@ -8,7 +8,7 @@ This repository contains the codebase for the Modern UI/UX GPT-3 project. This p
 
 ## Live Site
 
-You can check out the live site [here](https://gpt3-jsm.com/).
+You can check out the live site [here](https://silly-moonbeam-c63fd2.netlify.app).
 
 ## About
 
